@@ -12,6 +12,9 @@
 **eFootball Player Model Visualizer** is a Python web app built with Streamlit and Plotly that allows users to visually compare hidden player model data from the popular football video game *eFootball* (formerly PES). This app displays an interactive skeleton representation of players’ body proportions—like leg length, arm length, neck length, and shoulder width—with tooltips showing exact attribute values on hover.
 
 ---
+## 🎨 App Preview
+
+![eFootball Player Model Visualizer Output](images/efootball-playermodel-comparison-output.png)
 
 ## 🚀 Features
 
