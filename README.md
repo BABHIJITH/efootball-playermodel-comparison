@@ -26,6 +26,20 @@
 - Easily extendable by adding player data or more attributes.
 ---
 
+## ❓ Why This Project?
+
+Understanding subtle player physical attributes — like leg length, arm span, neck length, and shoulder width — plays a crucial role in competitive football gaming, especially in realistic simulators like *eFootball* (formerly PES). These hidden model stats directly affect gameplay elements such as reach for tackles, interceptions, duels, and overall presence on the pitch, but they are not readily accessible in official menus.
+
+This project was created to:
+
+- **Reveal Hidden Player Metrics:** Give enthusiasts, analysts, and competitive players visual insights into these less obvious but impactful player parameters.
+- **Aid Tactical Decision Making:** By comparing player models visually and numerically, users can better understand player strengths and weaknesses beyond surface-level ratings.
+- **Enhance Game Analysis & Strategy:** Coaches, commentators, and fans can use this tool to appreciate the underlying physical advantages influencing player performance.
+- **Demonstrate Data Visualization Techniques:** Showcase how to combine sports data with interactive visualization (Plotly and Streamlit), encouraging exploration of data-driven insights.
+- **Encourage Community Engagement:** Fuel deeper discussion and research on hidden attributes in football simulation, contributing to a growing body of fan knowledge.
+
+Ultimately, this app bridges the gap between raw data and intuitive understanding, empowering users to grasp how physical traits shape football gameplay mechanics and player effectiveness.
+
 ## ⚙️ Getting Started
 
 ### Prerequisites
